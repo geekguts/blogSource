@@ -1,5 +1,5 @@
 ---
-title: [第一本]长日将尽
+title: (第一本)长日将尽
 categories:
   - 读书
 tags:
