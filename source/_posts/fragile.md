@@ -1,5 +1,5 @@
 ---
-title:  (第六本)反脆弱
+title: (第六本)反脆弱
 categories:
   - 读书
 tags:
