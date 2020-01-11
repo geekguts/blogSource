@@ -177,7 +177,7 @@ https://book.douban.com/subject/10485011/
 
 说明：本次只挑选了一本
 
-##### 聪明的投资者
+##### 1. 聪明的投资者
 
 https://book.douban.com/subject/5243775/
 
